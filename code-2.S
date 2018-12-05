@@ -1,0 +1,4 @@
+mov 0x804e104,%eax
+mov %eax,0x804e10c
+push $0x08048b82
+ret
